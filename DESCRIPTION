@@ -1,0 +1,15 @@
+Package: praiseme
+Title: Deliver Praise to Someone
+Version: 0.0.0.9000
+Authors@R: 
+    person("Buyanbat", "Munkhbat", , "buyanbatm@proton.me", role = c("aut", "cre"))
+Description: We all deserve a little encouragement as we navigate our life. This package is here to give you the recognition you deserve.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
+Imports: 
+    glue
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
